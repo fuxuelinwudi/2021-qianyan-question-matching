@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00a5b0a5-b247-4a9b-b3b5-af77d85f4d1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/READ_ME.md" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/下载地址.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/download_address.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/modeling/下载地址.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/modeling/address.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_data/pretrain_model/下载地址.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_data/pretrain_model/download_address.md" afterDir="false" />
-    </list>
+    <list default="true" id="00a5b0a5-b247-4a9b-b3b5-af77d85f4d1d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,5 +58,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
